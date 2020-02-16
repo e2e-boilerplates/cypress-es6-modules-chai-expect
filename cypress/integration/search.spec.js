@@ -4,7 +4,13 @@ describe("Sandbox", () => {
   });
 
   it("should be on Sandbox", () => {
-    cy.title().should("eq", "Sandbox");
-    cy.get("h1").should("have.text", "Sandbox");
+    cy.title(title => {
+      expect(title).to.equal("Sandboxx");
+    });
+
+    cy.get("h1").then($header => {
+      const text = $header.text();
+      expect(text).to.equal("Sandbox");
+    });
   });
 });
