@@ -1,12 +1,8 @@
-# Cypress: (ES6 Modules, Chai and Expect)
-[![GitHub Actions status | e2e-boilerplates/cypress-es6-modules-chai-expect](https://github.com/e2e-boilerplates/cypress-es6-modules-chai-expect/workflows/cypress-es6-modules-chai-expect/badge.svg)](https://github.com/e2e-boilerplates/cypress-es6-modules-chai-expect/actions?workflow=cypress-es6-modules-chai-expect)
-
-
-Cypress end-to-end test automation boilerplate, using ES6 modules, Chai and Expect.
-
-## Getting Started
-
-    git clone git@github.com:e2e-boilerplates/cypress-es6-modules-chai-expect.git
-    cd cypress-es6-modules-chai-expect
-    npm install
-    npm run run
+[![GitHub Actions status | e2e-boilerplate/cypress-es-modules-chai-expect](https://github.com/e2e-boilerplate/cypress-es-modules-chai-expect/workflows/cypress-es-modules-chai-expect/badge.svg)](https://github.com/e2e-boilerplate/cypress-es-modules-chai-expect/actions?workflow=cypress-es-modules-chai-expect)
+  # Cypress Boilerplate
+  Cypress end-to-end test automation boilerplate, using ES Modules, Chai and Expect.
+  ## Getting Started
+  	 git clone git@github.com:e2e-boilerplate/cypress-es-modules-chai-expect.git 
+	 cd cypress-es-modules-chai-expect 
+	 npm install 
+	 npm run test 
