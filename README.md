@@ -1,4 +1,4 @@
-[![GitHub Actions status | e2e-boilerplate/cypress-es-modules-chai-expect](https://github.com/e2e-boilerplate/cypress-es-modules-chai-expect/workflows/cypress-es-modules-chai-expect/badge.svg)](https://github.com/e2e-boilerplate/cypress-es-modules-chai-expect/actions?workflow=cypress-es-modules-chai-expect)
+[![GitHub Actions status | e2e-boilerplate/cypress-es-modules-chai-expect](https://github.com/e2e-boilerplate/cypress-es-modules-chai-expect/workflows/cypress-es-modules-chai-expect/badge.svg)](https://github.com/e2e-boilerplate/cypress-es-modules-chai-expect/actions?workflow=cypress-es-modules-chai-expect) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
 # Cypress Boilerplate
     
