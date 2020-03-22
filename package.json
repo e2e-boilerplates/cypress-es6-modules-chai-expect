@@ -1,5 +1,5 @@
 {
-  "author": "",
+  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "bugs": {
     "url": "https://github.com/e2e-boilerplate/cypress-es-modules-chai-expect/issues"
   },
@@ -25,9 +25,14 @@
     }
   },
   "keywords": [
+    "boilerplate",
     "chai",
     "cypress",
-    "expect"
+    "e2e",
+    "e2e tests",
+    "example",
+    "expect",
+    "integration test"
   ],
   "license": "MIT",
   "lint-staged": {
