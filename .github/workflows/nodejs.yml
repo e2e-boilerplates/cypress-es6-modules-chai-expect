@@ -1,4 +1,4 @@
-name: cypress-es-modules-expect
+name: cypress-es-modules-chai-expect
 'on':
   push: null
   schedule:
