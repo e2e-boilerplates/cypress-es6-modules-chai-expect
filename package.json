@@ -5,6 +5,7 @@
   },
   "dependencies": {
     "cypress": "4.2.0",
+    "expect": "25.1.0",
     "rimraf": "3.0.2",
     "ts-loader": "6.2.1"
   },
