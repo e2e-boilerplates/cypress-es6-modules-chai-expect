@@ -1,0 +1,12 @@
+| referrer                                                                                        | count | uniques |
+| :---------------------------------------------------------------------------------------------- | :---- | :------ |
+| /e2e-boilerplate/cypress-es-modules-chai-expect                                                 | 4     | 2       |
+| /e2e-boilerplate/cypress-es-modules-chai-expect/tree/master/.github                             | 2     | 2       |
+| /e2e-boilerplate/cypress-es-modules-chai-expect/actions                                         | 2     | 1       |
+| /e2e-boilerplate/cypress-es-modules-chai-expect/blob/master/cypress/integration/sandbox.spec.js | 2     | 1       |
+| /e2e-boilerplate/cypress-es-modules-chai-expect/actions/runs/64985208                           | 1     | 1       |
+| /e2e-boilerplate/cypress-es-modules-chai-expect/actions/runs/70302282                           | 1     | 1       |
+| /e2e-boilerplate/cypress-es-modules-chai-expect/actions/runs/70304247                           | 1     | 1       |
+| /e2e-boilerplate/cypress-es-modules-chai-expect/blob/master/.github/runs_status.md              | 1     | 1       |
+| /e2e-boilerplate/cypress-es-modules-chai-expect/blob/master/.github/workflows/nodejs.yml        | 1     | 1       |
+| /e2e-boilerplate/cypress-es-modules-chai-expect/edit/master/cypress/integration/sandbox.spec.js | 1     | 1       |
