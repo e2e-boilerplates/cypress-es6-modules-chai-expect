@@ -9,3 +9,6 @@ Cypress end-to-end test automation boilerplate, Using ES Modules, Chai and Expec
     	2. cd cypress-es-modules-chai-expect
     	3. npm install
     	4. npm run test
+        
+    
+For more boilerplate click [here](https://github.com/e2e-boilerplate/utils/blob/master/docs/implemented.md)
